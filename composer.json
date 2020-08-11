@@ -1,6 +1,6 @@
 {
     "name": "ecjia/ecjia-system-package",
-    "type": "project",
+    "type": "library",
     "description": "The ECJia System Package for Royalcms Framework.",
     "license": "MIT",
     "homepage": "https://github.com/ecjia",
