@@ -93,14 +93,6 @@
         "royalcms/xml-response": "dev-master",
         "symfony/debug": "^4.3"
     },
-    "autoload": {
-        "psr-4": {
-            "Ecjia\\System\\": "content/system/classes"
-        },
-        "classmap": [
-
-        ]
-    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
