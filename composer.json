@@ -36,7 +36,7 @@
         "patchwork/utf8": "~1.1",
         "phpseclib/phpseclib": "~2.0",
         "predis/predis": "^1.0",
-        "royalcms/framework": "8.x-dev",
+        "royalcms/framework": "^8.0",
         "royalcms/agent": "dev-master",
         "royalcms/api": "dev-master",
         "royalcms/app": "dev-master",
